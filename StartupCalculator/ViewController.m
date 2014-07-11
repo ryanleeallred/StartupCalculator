@@ -7,6 +7,8 @@
 //
 
 #import "ViewController.h"
+#import "CompanyTableViewDataSource.h"
+#import "ReusableTableViewController.h"
 
 @interface ViewController ()
             
